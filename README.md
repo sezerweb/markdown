@@ -262,7 +262,7 @@ H1 Alternatif Ana Başlık
 H2 Alternatif Alt Başlık
 ---------------------
 
-## Ekstra
+## Ekstralar
 
 ```
 <!---
