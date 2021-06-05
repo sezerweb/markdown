@@ -278,10 +278,10 @@ Yatay Çizgiler
 ***
 ___
 
-Emoji kullanmak istersek  
+Github'da emoji kullanmak istersek  
 :smiley:, :yum:, :alien:, :heartpulse:
 
-Görselli Link
+Görsele Link Verme
  [![görsel alt metin](görsel url link)](link)
 ```
 <!---
@@ -299,11 +299,11 @@ Yatay Çizgiler
 ***
 ___
 
-Emoji kullanmak istersek 
+Github'da emoji kullanmak istersek 
 
 :smiley:, :yum:, :alien:, :heartpulse:
 
-Görselli Link
+Görsele Link Verme
 
 [![Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png "Markdown Logo")](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png)
 
