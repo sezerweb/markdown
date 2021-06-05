@@ -13,23 +13,23 @@ Paragraf ```<p>``` için yazılar arasına boş bir satır bırakabilirsin.
 
 ---
 
-[Vurgu](#Vurgu)
+[Vurgu](#vurgu)
 
-[Liste](#Liste)
+[Liste](#liste)
 
-[Link](#Link)
+[Link](#link)
 
-[Görsel](#Görsel)
+[Görsel](#görsel)
 
-[Kod](#Kod)
+[Kod](#kod)
 
-[Tablo](#Tablo)
+[Tablo](#tablo)
 
-[Alıntı](#Alıntı)
+[Alıntı](#alıntı)
 
-[Başlık](#Başlık)
+[Başlık](#başlık)
 
-[Ekstralar](#Ekstralar)
+[Ekstralar](#ekstralar)
 
 ---
 
