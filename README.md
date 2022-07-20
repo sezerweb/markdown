@@ -1,7 +1,7 @@
 # Markdown nedir ve nasıl kullanılır?
 
 Okunması ve yazması kolay, düz metin şeklinde oluşturabileceğiniz markdown
-belgelerini, HTML'e dönüştürebilir ya da github'da yayınlayabilirsiniz..  
+belgelerini, HTML'e dönüştürebilir ya da github'da yayınlayabilirsiniz.  
 
 ## Kurallar
 Boşuklar önemli. Alt satıra ```<br>``` geçmek için satır sonuna  
