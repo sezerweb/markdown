@@ -4,7 +4,7 @@ Okunması ve yazması kolay, düz metin şeklinde oluşturabileceğiniz markdown
 belgelerini, HTML'e dönüştürebilir ya da github'da yayınlayabilirsiniz.  
 
 ## Kurallar
-Boşuklar önemli. Alt satıra ```<br>``` geçmek için satır sonuna  
+Boşuklar önemlidir. Alt satıra ```<br>``` geçmek için satır sonuna  
 iki veya daha fazla boşluk koyup entere basın.  
 
 Paragraf ```<p>``` için yazılar arasına boş bir satır bırakabilirsin. 
