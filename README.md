@@ -170,11 +170,11 @@ ya da referansla kullanılabilir.
 [3]: https://ornek-gorsel.com/logo.png "Başlık"
 ```
 
-![Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg  "Başlık")
+![Markdown](https://github.com/sezerweb/markdown/blob/main/md.png  "Başlık")
 
 ![Alt Metin][3]
 
-[3]: https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg "Başlık"
+[3]: https://github.com/sezerweb/markdown/blob/main/md.png "Başlık"
 
 ---
 
@@ -305,7 +305,7 @@ Github'da emoji kullanmak istersek
 
 Görsele Link Verme
 
-[![Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg "Markdown Logo")](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+[![Markdown](https://github.com/sezerweb/markdown/blob/main/md.png "Markdown Logo")](https://github.com/sezerweb/markdown/blob/main/md.png)
 
 
 
